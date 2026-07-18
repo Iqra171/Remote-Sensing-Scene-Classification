@@ -1,4 +1,4 @@
-# Aerial Scene Classification with MobileNetV2 (AID-30)
+# Remote Sensing Scene Classification
 
 A transfer-learning image classifier that identifies aerial/satellite scene types (airports, farmland, residential areas, forests, etc.) from the **AID (Aerial Image Dataset)**, using a MobileNetV2 backbone pretrained on ImageNet.
 
